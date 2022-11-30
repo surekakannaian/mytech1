@@ -331,3 +331,12 @@ footer{
         margin-top: 2px;
      }
 }
+@media screen and (max-width:480px){
+    .home .search{
+        display:none;
+    }
+    .home .description{
+  
+        font-size:17px
+   }
+}
